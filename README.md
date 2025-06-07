@@ -41,14 +41,14 @@
     <img 
       src="https://leetcode-stats.vercel.app/api?username=S_Reeshi&theme=dark" 
       alt="LeetCode Stats" 
-      style="height: 200px; object-fit: contain; display: block;"
+      style="height: 150px; object-fit: contain; display: block;"
     />
   </a>
   <a href="https://leetcode.com/S_Reeshi" target="_blank" rel="noreferrer" style="display: inline-block;">
     <img 
       src="https://leetcard.jacoblin.cool/S_Reeshi?theme=dark" 
       alt="LeetCode Contribution Card" 
-      style="height: 200px; object-fit: contain; display: block;"
+      style="height: 150px; object-fit: contain; display: block;"
     />
   </a>
 </div>
