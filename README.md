@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sapt Reeshi</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -26,7 +24,6 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
-
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="numpy" width="40" height="40"/> 
   </a>
@@ -37,3 +34,21 @@
     <img src="https://download.logo.wine/logo/Power_BI/Power_BI-Logo.wine.png" alt="powerbi" width="40" height="40"/> 
   </a>
 </p>
+
+<h3 align="left">My LeetCode Profile:</h3>
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://leetcode.com/S_Reeshi" target="_blank" rel="noreferrer" style="display: inline-block;">
+    <img 
+      src="https://leetcode-stats.vercel.app/api?username=S_Reeshi&theme=dark" 
+      alt="LeetCode Stats" 
+      style="height: 200px; object-fit: contain; display: block;"
+    />
+  </a>
+  <a href="https://leetcode.com/S_Reeshi" target="_blank" rel="noreferrer" style="display: inline-block;">
+    <img 
+      src="https://leetcard.jacoblin.cool/S_Reeshi?theme=dark" 
+      alt="LeetCode Contribution Card" 
+      style="height: 200px; object-fit: contain; display: block;"
+    />
+  </a>
+</div>
